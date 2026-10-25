@@ -16,7 +16,7 @@
 
 <?php else: ?>
 
-    <div class="table-responsive">
+    <div class="table-responsive" style="background-color: red;">
         <table class="table table-bordered table-striped bg-white align-middle">
             <thead class="table-dark">
                 <tr>
